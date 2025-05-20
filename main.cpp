@@ -53,7 +53,7 @@ int main(int argc, char* argv[]) {
     }
 
     SDL_Window* window = SDL_CreateWindow(
-        "Game –ua Xe",
+        "Game √êua Xe",
         SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED,
         SCREEN_WIDTH, SCREEN_HEIGHT,
         SDL_WINDOW_SHOWN
@@ -160,7 +160,7 @@ int main(int argc, char* argv[]) {
     					SDL_Rect obsRect = obstacles[index]->getRect();
 
     					reward = new Reward(renderer);
-    					reward->setPosition(obsRect.x, obsRect.y + obsRect.h + 10);  // –?t reward ngay sau xe
+    					reward->setPosition(obsRect.x, obsRect.y + obsRect.h + 10);  // √ê?t reward ngay sau xe
 					}
                 }
             }
