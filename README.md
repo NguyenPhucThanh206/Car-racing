@@ -35,6 +35,10 @@
       <li> Thư viện: SDL2</li>
       <li> Quản lý cuộn nền: dùng scrolly để tạo hiệu ứng đường chạy đơn giản</li>
       <li> Hình ảnh xe chính và chướng ngại được chọn từ trong tệp <code>img/</code> </li>
+          <p>Ảnh màn hình bắt đầu trò chơi </p>
+          
+          <p>Đường chạy của xe </p>
+          <img src="img/background6.png" width = "100">
           <p> Hình ảnh chính: được chọn một trong 3 loại xe có sẵn trong tệp </p>
           <img src="img/car1.png" width = "100">
           <img src="img/car2.png" width = "100">
@@ -43,7 +47,10 @@
           <img src="img/obstacle1.png" width = "100">
           <img src="img/obstacle2.png" width = "100">
           <img src="img/obstacle3.png" width = "100">
+          
+          
       <li> Âm nhạc: sử dụng âm thanh có sẵn trên ytb phù hợp với khung cảnh biển và động cơ xe</li>
+      
   </ul>
 
 <div class="section">
