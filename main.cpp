@@ -165,7 +165,7 @@ int main(int argc, char* argv[]) {
                 }
             }
             frameCount = 0;
-            if (spawnInterval > 30) spawnInterval--;
+            if (spawnInterval > 15) spawnInterval--;
         }
 
         SDL_Rect playerRect = player.getRect();
