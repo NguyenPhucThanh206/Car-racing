@@ -53,7 +53,7 @@ int main(int argc, char* argv[]) {
     }
 
     SDL_Window* window = SDL_CreateWindow(
-        "Game Ðua Xe",
+        "Game Ãua Xe",
         SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED,
         SCREEN_WIDTH, SCREEN_HEIGHT,
         SDL_WINDOW_SHOWN
@@ -160,12 +160,12 @@ int main(int argc, char* argv[]) {
     					SDL_Rect obsRect = obstacles[index]->getRect();
 
     					reward = new Reward(renderer);
-    					reward->setPosition(obsRect.x, obsRect.y + obsRect.h + 10);  // Ð?t reward ngay sau xe
+    					reward->setPosition(obsRect.x, obsRect.y + obsRect.h + 10);  // Ã?t reward ngay sau xe
 					}
                 }
             }
             frameCount = 0;
-            if (spawnInterval > 30) spawnInterval--;
+            if (spawnInterval > 15) spawnInterval--;
         }
 
         SDL_Rect playerRect = player.getRect();
