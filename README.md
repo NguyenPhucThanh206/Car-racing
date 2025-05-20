@@ -1,6 +1,6 @@
 <div class="info">
     <p><strong>Họ và tên:</strong> Nguyễn Phúc Thành</p>
-    <p><strong>Mã số sinh viên:</strong> 24021549</p>
+    <p><strong>Mã số sinh viên:</strong> 24021629</p>
     <p><strong>Lớp:</strong> K69I-CS1</p>
   </div>
 
