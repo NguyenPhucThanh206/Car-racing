@@ -39,7 +39,7 @@
           <img src="img/menupicture.png" width = "100">
           <p>Đường chạy của xe </p>
           <img src="img/backgroun6.jpg" width = "100">
-          <p> Hình ảnh chính: được chọn một trong 3 loại xe có sẵn trong tệp </p>
+          <p> Hình ảnh chính: được chọn một trong 3 loại xe có sẵn trong tệp( tham khao ow trang vi.pngtree.com) </p>
           <img src="img/car1.png" width = "100">
           <img src="img/car2.png" width = "100">
           <img src="img/car3.png" width = "100">
